@@ -198,6 +198,8 @@ or
 
 npm i commander
 
+yarn add nanoid@3.3.4
+
 npm run dev
 
 yarn dev
