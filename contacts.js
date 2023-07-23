@@ -1,5 +1,8 @@
 // contacts.js
 
+const fs = require('fs/promises');
+const path = require('path');
+
 /*
  * Розкоментуй і запиши значення
  * const contactsPath = ;
