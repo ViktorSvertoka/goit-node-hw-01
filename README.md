@@ -189,3 +189,5 @@ README.md. Створіть цей файл в корені проекту. Пі
 npm init -y
 
 npm install cors express
+
+npm install --save-dev nodemon
