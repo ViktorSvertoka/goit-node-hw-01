@@ -191,3 +191,13 @@ npm init -y
 npm install cors express
 
 npm install --save-dev nodemon
+
+yarn add commander
+
+or
+
+npm i commander
+
+npm run dev
+
+yarn dev
