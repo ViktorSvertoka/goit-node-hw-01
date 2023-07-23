@@ -184,6 +184,24 @@ README.md. Створіть цей файл в корені проекту. Пі
 
 ---
 
+## Cкріншоти
+
+![Screenshoot](./assets/screenshoot-01.png)
+
+---
+
+![Screenshoot](./assets/screenshoot-02.png)
+
+---
+
+![Screenshoot](./assets/screenshoot-03.png)
+
+---
+
+![Screenshoot](./assets/screenshoot-04.png)
+
+---
+
 # Node.js
 
 npm init -y
