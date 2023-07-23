@@ -9,7 +9,7 @@
     "dev": "nodemon index"
   },
   "keywords": [],
-  "author": "",
+  "author": "Viktor Svertoka <victor.svertoka@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "commander": "^11.0.0",
