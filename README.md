@@ -198,7 +198,7 @@ README.md. Створіть цей файл в корені проекту. Пі
 
 ![Screenshoot](./assets/screenshoot-04.png)
 
-# Node.js
+# Node.js ---> commands
 
 npm init -y
 
