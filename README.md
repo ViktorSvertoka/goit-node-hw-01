@@ -184,6 +184,10 @@ README.md. Створіть цей файл в корені проекту. Пі
 
 ## Cкріншоти
 
+![Screenshoot](./assets/screenshoot-00.png)
+
+---
+
 ![Screenshoot](./assets/screenshoot-01.png)
 
 ---
